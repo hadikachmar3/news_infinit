@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
 
-# This Project is to Cover a Flutter News App
+# This Project is to Cover a Flutter News App using [News API](https://newsapi.org)
 
 This project is a Flutter application for displaying all news with pagination and the latest news from various categories. It follows clean architecture principles and organizes code into a clear directory structure.
 
