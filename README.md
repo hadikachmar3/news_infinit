@@ -28,6 +28,10 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 ## Project Structure
 
+Below is a visual representation of the project's directory structure:
+
+![Project Structure](https://github-production-user-asset-6210df.s3.amazonaws.com/38382273/283666338-5040ce81-34d9-4402-bada-56baffa7f50a.png)
+
 The application is organized into the following directories:
 
 - `lib/`: Main directory for Dart source files.
@@ -38,6 +42,7 @@ The application is organized into the following directories:
   - `services/`: Services for handling functions that are used in the whole app, in wide cases this can be extended to be used to cover methods connected to the backend
   - `widgets/`: Custom reusable widget components.
   - `main.dart`: The entry point of the application.
+
 
 ## State Management
 
