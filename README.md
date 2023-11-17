@@ -7,11 +7,13 @@
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
 
-# This Project is to Cover Flutter News App
+# This Project is to Cover a Flutter News App
 
 This project is a Flutter application for displaying all news with pagination and the latest news from various categories. It follows clean architecture principles and organizes code into a clear directory structure.
 
-If you are new to Flutter with Rest API you can check [this course](https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/)
+If you are new to Flutter with Rest API you can check
+1. [Flutter 3.0 & Rest API crash course, build a store app](https://www.youtube.com/watch?v=YAoYJfitObA&ab_channel=CodingwithHadi) - Course For Beginners
+2. [Flutter 3 0 Rest Api Crash Course, Build a News App From Scratch](https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/) - Course For Experienced Mobile Developers
 
 If you find this project useful, please consider giving it a star :star: on GitHub to help spread the word. And if you are interested in following my contributions, give me a follow on GitHub!
 
