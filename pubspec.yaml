@@ -1,0 +1,30 @@
+name: infinit_test_news
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # UI
+  cupertino_icons: ^1.0.6
+  # Provider is used for the state management
+  shared_preferences: ^2.2.2
+  provider: ^6.1.1
+  cached_network_image: ^3.3.0
+  # Time and Date
+  intl: ^0.17.0
+  # Social
+  url_launcher: ^6.2.1
+  share_plus: ^7.2.1
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
